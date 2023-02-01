@@ -16,6 +16,9 @@ listings.csv - the data set of listings of AirBnB in Seattle in year 2016 along 
 seattle_airbnb_analysis.ipynb - Jupyter notebook containing the Python 3 code for the analyis
 
 #Summary of the results
+
 Question #1 - Downtown, Magnolia and Queen Anne are the highest priced neighborhoods, with average listing prices of over $150 USD. Beacon Hill, Delridge and Lake City have the lowest priced listings, with average listing prices below $100. 
+
 Question #2 - The factors that have the strongest correlation with overall score are perceived value, cleanliness, accuracy, communication and ease of check-in process.
+
 Question #3 - Characteristics related to the size of the property are most strongly correlated with price.
