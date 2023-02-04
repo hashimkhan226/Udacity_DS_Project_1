@@ -35,3 +35,8 @@ Question #1 - Downtown, Magnolia and Queen Anne are the highest priced neighborh
 Question #2 - The factors that have the strongest correlation with overall score are perceived value, cleanliness, accuracy, communication and ease of check-in process.
 
 Question #3 - Characteristics related to the size of the property are most strongly correlated with price.
+
+#Link to blog post
+
+https://medium.com/@hashimkhan226/what-you-need-to-know-to-be-a-sucessful-airbnb-host-in-seattle-fae4e4113eb7
+
