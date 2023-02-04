@@ -25,7 +25,7 @@ Project 1 of the Udacity Data Scientist Nanodegree. A dataset of AirBnB listings
 
 listings.csv - the data set of listings of AirBnB in Seattle in year 2016 along with various characteristics of the listing and associated host
 
-seattle_airbnb_analysis.ipynb - Jupyter notebook containing the Python 3 code for the analyis
+Udacity DS Project 1 - Write a Data Science Blog Post.ipynb - Jupyter notebook containing the Python 3 code for the analyis
 
 
 #Summary of the results
